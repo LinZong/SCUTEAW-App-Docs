@@ -16,11 +16,11 @@ New SCUT Educational Administration Website uses a kind of session id named <str
 
    2. Click the exclamation mark (maybe with text"Not secure") at the beginning of the url bar, and click "Cookie" in the expanded popup.
 
-      ![Relax](.\click-header.png)
+      ![Relax](./click-header.png)
 
       3. Expand "xsjw2018.scuteo.com" -> "Cookie" -> "JSESSION and BIGipServerjwxtnew_BS80 ".(The content of each cookie is hidden for security reasons. There will be a string of characters in actual.)
 
-         ![Relax](.\jsession.png)
+         ![Relax](./jsession.png)
 
          ![Relax].\big.png)
          
@@ -32,10 +32,10 @@ New SCUT Educational Administration Website uses a kind of session id named <str
       2. Press F12 in the homepage, then call the debugger.
 
       3. Switch to the "Storage(存储)“ tab, expand "Cookie" in the left TreeItem bar, click the "index_initMenu.html". You may see a DataGrid as follow.
-      4. ![Edge](.\edge-cookie.png)
+      4. ![Edge](./edge-cookie.png)
 
 2. Fill in the blank in AutoMata.
      1. Fill the content of each cookie in the specified blank of "Cookie Mode(JSESSION)".
-      ![Filler](.\fill.png)
+      ![Filler](./fill.png)
       2. If everything goes well, now you can login into EAW in the AutoMata, and the AutoMata will tell you that you are logined by Cookie Mode.
-    ![OK](.\result.png)
+    ![OK](./result.png)
