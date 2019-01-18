@@ -22,7 +22,7 @@ New SCUT Educational Administration Website uses a kind of session id named <str
 
          ![Relax](./jsession.png)
 
-         ![Relax].\big.png)
+         ![Relax](./big.png)
          
 
    For Edge
